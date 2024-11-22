@@ -1,0 +1,17 @@
+{
+  "name": "time-line",
+  "version": "0.0.1",
+  "main": "TimeLineSlider.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "alinass58",
+  "license": "ISC",
+  "description": "time-line ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/time-line.git"
+  }
+}
